@@ -1,1 +1,1 @@
-# JDMCarRental
+# CarRental CRUD app
