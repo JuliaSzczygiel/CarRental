@@ -3,4 +3,6 @@
 
 ## login form
 
+![Example screenshot](./images/login.png)
+
 ## register form
