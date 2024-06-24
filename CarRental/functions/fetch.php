@@ -15,8 +15,18 @@ if (isset($_SESSION['username'])) :
           <th scope="col">Nadwozie</th>
           <th scope="col">Kolor</th>
           <th scope="col">Moc</th>
-          <th scope="col">Edytuj</th>
-          <th scope="col">Usuń</th>
+          <th scope="col">
+            <?php
+            if (isset($_SESSION['admin']) || isset($_SESSION['editor'])) : ?>
+              Edytuj
+            <?php endif; ?>
+          </th>
+          <th scope="col">
+            <?php
+            if (isset($_SESSION['admin'])) : ?>
+              Usuń
+            <?php endif; ?>
+          </th>
           <th scope="col">
            <?php
             if (isset($_SESSION['admin']) || isset($_SESSION['editor'])) : ?>
