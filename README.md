@@ -9,8 +9,8 @@ App includes:
 Project is created with:
   - HTML5
   - CSS3
-  - PHP
-  - MySQL
+  - PHP v7.4.11
+  - MySQL 
   - JavaScript
   - jQuery v3.5.1
   - Bootstrap v4.5.3
