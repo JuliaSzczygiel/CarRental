@@ -14,7 +14,7 @@ if (isset($_SESSION['username'])) :
           <th scope="col">Rok</th>
           <th scope="col">Nadwozie</th>
           <th scope="col">Kolor</th>
-          <th scope="col">HP</th>
+          <th scope="col">Moc</th>
           <th scope="col">Edytuj</th>
           <th scope="col">Usuń</th>
           <th scope="col">
