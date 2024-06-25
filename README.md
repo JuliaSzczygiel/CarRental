@@ -17,8 +17,8 @@ Project is created with:
 
 ## Screenshots 📷🖥️
 ### Login and register form
-![Example screenshot](./images/login.PNG)
-![Example screenshot](./images/register.PNG)
+![Example screenshot](./images/login.png)
+![Example screenshot](./images/register.png)
 ### Admin View
 ```
 You can test it yourself.
