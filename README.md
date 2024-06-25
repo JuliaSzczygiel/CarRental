@@ -20,16 +20,16 @@ Project is created with:
 ![Example screenshot](./images/login.PNG)
 ![Example screenshot](./images/register.PNG)
 ### Admin, editor and user View
-![Example screenshot](./images/adminView.PNG)
-![Example screenshot](./images/editorView.PNG)
-![Example screenshot](./images/userView.PNG)
+![Example screenshot](./images/adminView.png)
+![Example screenshot](./images/editorView.png)
+![Example screenshot](./images/userView.png)
 ### CRUD Operations
 #### Add new car
-![Example screenshot](./images/add.PNG)
+![Example screenshot](./images/add.png)
 #### Edit car data
-![Example screenshot](./images/edit.PNG)
+![Example screenshot](./images/edit.png)
 #### Delete car
-![Example screenshot](./images/delete.PNG)
+![Example screenshot](./images/delete.png)
 
 ## Todo 📝
 
