@@ -19,9 +19,11 @@ Project is created with:
 ### Login and register form
 ![Example screenshot](./images/login.PNG)
 ![Example screenshot](./images/register.PNG)
-### Admin, editor and user View
+### Admin View
 ![Example screenshot](./images/adminView.png)
+### Editor View
 ![Example screenshot](./images/editorView.png)
+### User View
 ![Example screenshot](./images/userView.png)
 ### CRUD Operations
 #### Add new car
@@ -32,5 +34,5 @@ Project is created with:
 ![Example screenshot](./images/delete.png)
 
 ## Todo 📝
-
 - Add Image Upload Button
+- Reservation/Booking module
