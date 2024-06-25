@@ -20,10 +20,25 @@ Project is created with:
 ![Example screenshot](./images/login.PNG)
 ![Example screenshot](./images/register.PNG)
 ### Admin View
+```
+You can test it yourself.
+login: admin
+password: admin
+```
 ![Example screenshot](./images/adminView.png)
 ### Editor View
+```
+You can test it yourself.
+login: editor
+password: editor
+```
 ![Example screenshot](./images/editorView.png)
 ### User View
+```
+You can test it yourself.
+login: user
+password: user
+```
 ![Example screenshot](./images/userView.png)
 ### CRUD Operations
 #### Add new car
